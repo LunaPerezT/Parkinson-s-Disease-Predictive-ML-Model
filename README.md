@@ -8,11 +8,11 @@ A Python-based machine learning project for predicting the likelihood or presenc
 
 ## 📁 Repository Structure   
     
-Parkinson-s-Disease-Predictive-ML-Model/  
-├── data/ 
+Parkinson-s-Disease-Predictive-ML-Model/           
+├── data/          
 ├── docs/          
 ├── img/        
 ├── notebooks/           
 ├── models/           
 ├── `requirements.txt`       
-└── `README.md`  
+└── `README.md`    
