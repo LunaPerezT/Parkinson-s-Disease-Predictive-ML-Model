@@ -8,10 +8,10 @@ A Python-based machine learning project for predicting the likelihood or presenc
 
 ## 📁 Repository Structure   
     
-Parkinson-s-Disease-Predictive-ML-Model/
-├── data/ # Raw or processed datasets and CSVs for training/testing
-├── notebooks/ # Jupyter notebooks with EDA, model development or analysis
+Parkinson-s-Disease-Predictive-ML-Model/  
+├── data/ # Raw or processed datasets and CSVs for training/testing  
+├── notebooks/ # Jupyter notebooks with EDA, model development or analysis  
 ├── 
-├── models/ # Saved/trained model files (`.pkl`)
-├── requirements.txt # Python dependencies
-└── README.md # This file
+├── models/ # Saved/trained model files (`.pkl`)  
+├── requirements.txt # Python dependencies  
+└── README.md # This file  
