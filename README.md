@@ -10,8 +10,9 @@ A Python-based machine learning project for predicting the likelihood or presenc
     
 Parkinson-s-Disease-Predictive-ML-Model/  
 ├── data/ # Raw or processed datasets and CSVs for training/testing  
+├── docs/
+├── img/
 ├── notebooks/ # Jupyter notebooks with EDA, model development or analysis  
-├── 
 ├── models/ # Saved/trained model files (`.pkl`)  
 ├── requirements.txt # Python dependencies  
 └── README.md # This file  
