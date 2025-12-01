@@ -22,10 +22,10 @@ Parkinson-s-Disease-Predictive-ML-Model/
 Contains raw, processed, datasets or testing data used for model inference or demonstration inside the web interface.
 
 #### [`/docs`](./docs)
-Contains raw, processed, datasets or testing data used for model inference or demonstration inside the web interface.
+Technical and business presentations of the project
    
 #### [`/img`](./img)
-Images displayed within the webpage (logos, UI elements, figures).
+Images displayed in the notebooks and (logos, UI elements, figures).
   
 #### [`/models`](./models)
 Stores trained machine-learning models in Pickle format(`.pkl`).   
