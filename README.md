@@ -12,7 +12,7 @@ Parkinson-s-Disease-Predictive-ML-Model/
 ├── data/          
 ├── docs/          
 ├── img/   
-├── models/ 
+├── models/     
 ├── notebooks/                     
 ├── `requirements.txt`       
 └── `README.md`    
