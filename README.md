@@ -33,14 +33,10 @@ Stores trained machine-learning models in Pickle format(`.pkl`).
 *You can explore the exploratory data analysis, model development and presentation in this [github repository](https://github.com/LunaPerezT/Parkinson-s-Disease-Predictive-ML-Model/tree/main/docs)*
 
 #### [`/notebooks`](./notebooks)
-Font collection as static frontend assets.
+Notebooks with the detailed development of the machine leaning models
 
 
 ### 📄 Files
-
-#### [`app.py`](./app.py)
-Main application script.  
-Runs the web interface (e.g., Streamlit/Flask) and loads the ML model for predictions.
 
 #### [`requirements.txt`](./requirements.txt)
 Python dependencies required to run the project.
