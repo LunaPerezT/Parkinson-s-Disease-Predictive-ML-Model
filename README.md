@@ -29,8 +29,6 @@ Images displayed in the notebooks and (logos, UI elements, figures).
   
 #### [`/models`](./models)
 Stores trained machine-learning models in Pickle format(`.pkl`).   
-   
-*You can explore the exploratory data analysis, model development and presentation in this [github repository](https://github.com/LunaPerezT/Parkinson-s-Disease-Predictive-ML-Model/tree/main/docs)*
 
 #### [`/notebooks`](./notebooks)
 Notebooks with the detailed development of the machine leaning models
@@ -55,8 +53,8 @@ Follow these steps on your git bash to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/LunaPerezT/Parkinsons-Disease-ML-Predictive-Model-Webpage.git
-cd Parkinsons-Disease-ML-Predictive-Model-Webpage
+git clone https://github.com/LunaPerezT/Parkinsons-Disease-ML-Predictive-Model.git
+cd Parkinsons-Disease-ML-Predictive-Model
 ```
    
 ### 2. (Optional) Create and Activate a Virtual Environment
