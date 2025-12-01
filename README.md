@@ -77,12 +77,8 @@ venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 ```
     
-### 4. Run the Web Application
-   
-```bash
-streamlit run app.py
-```
-    
+### 4. Run the Jupyter Notebooks 
+
 ---
      
 ## 🙋🏻‍♀️ About the Author
