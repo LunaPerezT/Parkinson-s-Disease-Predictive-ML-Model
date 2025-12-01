@@ -11,8 +11,8 @@ A Python-based machine learning project for predicting the likelihood or presenc
 Parkinson-s-Disease-Predictive-ML-Model/           
 ├── data/          
 ├── docs/          
-├── img/        
-├── notebooks/           
-├── models/           
+├── img/   
+├── models/ 
+├── notebooks/                     
 ├── `requirements.txt`       
 └── `README.md`    
